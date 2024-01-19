@@ -1,6 +1,6 @@
 Shachar, Dalal, shchar.dalal@e.braude.ac.il, Introduction to cloud computing; Algorithms for texts and sequences; Computer graphics; Compilation theory; Computer networks Digital signal processing DSP Seminar on matching project templates, https://www.google.co.il/
-Shahar, Vachiler, shaharvac95@gmail.com, Cloud Computing; Algorithms for texts and sequences; Seminar in patterns; Final Project part 1; Computing Networks; Compilation Theory, https://www.google.co.il/
-Aviv, Cohen, aviv.cohen@e.braude.ac.il, Introduction to cloud computing; Compilation Theory; Advenced Web Technologies; Probability; Physics;  RT Computing, https://www.youtube.com/watch?v=xuCn8ux2gbs
+Shahar, Vachiler, shaharvac95@gmail.com, Cloud Computing; Algorithms for texts and sequences; Seminar in patterns; Final Project part 1; Computing Networks; Compilation Theory, http://www.aniwave.to
+Aviv, Cohen, aviv.cohen@e.braude.ac.il, Introduction to cloud computing; Compilation Theory; Advenced Web Technologies; Probability; Physics;  RT Computing, https://www.google.co.il/
 Yael, Kanter,yael.kanter@e.braude.ac.il, Physics for software; Automata;  probability cloud computing; Web technologies, https://www.youtube.com/watch?v=7rDeTPxIz-Q&ab_channel=ClashWorld
 Yoav, Katz, Yoav.Katz@e.braude.ac.il,  Introduction to cloud computing;  Probability for Software Engineering; Automata and Computability; Mechanics for Software Engineering;  Advenced Web Technologies, https://www.linkedin.com/in/yoav-katz-full-stack/
 Iris, Kanter, iris.kanter@e.braude.ac.il, Operating Systems; Algebraic Structures for Software Engineering 2; Introduction to Cloud Computing; Algorithms; physics, https://www.youtube.com/watch?v=7rDeTPxIz-Q&ab_channel=ClashWorld
